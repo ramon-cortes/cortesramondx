@@ -1,0 +1,66 @@
+html, body {
+  height: 100%;
+  margin: 0px;
+}
+
+.master-wrap {
+  height: 100%;
+}
+
+.grid-encabezado {
+  display: grid;  
+  grid-template-columns: 20% 1fr;
+  grid-gap: 5px;
+  margin-bottom: 5px;
+  height: 10%;
+}
+
+.grid-4columnas {
+  display: grid;  
+  grid-template-columns: 20% 1fr 25% 20%;
+  grid-gap: 5px;
+  height: 70%;
+}
+
+.grid-ls {
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr;  
+  grid-gap: 5px;
+}
+
+.grid-cs {
+  display: grid;
+  grid-template-rows: 1fr 1fr;
+  grid-gap: 5px;
+}
+
+.grid-fc {
+  display: grid;
+  grid-template-rows: 15% 1fr 1fr 15%;
+  grid-gap: 5px;
+}
+
+.grid-vs {
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr;
+  grid-gap: 5px;
+}
+
+.yo,
+.encabezado,
+.ls,
+.cs,
+.fs,
+.vs,
+.cintillo {
+  background-color: aquamarine;  
+}
+
+.cintillo {
+  margin-top: 5px;
+  height: 15%;
+}
+
+/*
+
+*/
