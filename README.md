@@ -1,3 +1,3 @@
 ## cortesramondx
 
-Boceto **layout** página de *CORTESRAMONDX*
+Boceto *layout* página de **CORTESRAMONDX**
